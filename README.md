@@ -28,7 +28,6 @@ film-forecasting/
 - Forecast attendance by day, week, or release window
 - Incorporates YouTube trailer views, Google Trends, RT scores, and more
 - Handles school holidays and weather data per location
-- Designed for UK/Ireland cinema network (110 sites)
 
 ---
 
@@ -42,4 +41,3 @@ film-forecasting/
 
 - Live API calls for YouTube and weather
 - Forecasting model (XGBoost or Linear Regression)
-- Power BI dashboard integration
