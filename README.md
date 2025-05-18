@@ -6,12 +6,19 @@ Predict Cinema Revenue for Films in the UK & Ireland using a Mix of metadata, ma
 
 ## Project Structure
 film-forecasting/
+
 ├── data/          # Raw and processed datasets
+
 ├── notebooks/     # Exploratory notebooks and models
+
 ├── scripts/       # Data processing and forecasting code
+
 ├── api_keys/      # Example API key templates (do not store real keys)
+
 ├── models/        # Trained models for reuse
+
 ├── docs/          # Diagrams and documentation
+
 └── README.md      # Project overview
 
 ---
